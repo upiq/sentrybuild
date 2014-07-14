@@ -1,0 +1,3 @@
+etc/postgresql.conf
+etc/redis.conf
+etc/supervisord.conf
